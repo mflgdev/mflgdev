@@ -6,7 +6,6 @@ I enjoy creating projects end-to-end — combining performance, clean interfaces
 
 Right now I'm working on institutional websites, custom dashboards, e-commerce integrations and content management systems using PHP, JavaScript and modern front-end stacks.
 
----
 
 ## What I work with
 
@@ -16,8 +15,6 @@ E-Commerce: Marketplace integrations, product management, payment gateways, omni
 SEO & Performance: Technical SEO, PageSpeed optimization, UX improvements, conversion strategies
 Other: Automation, data migration, analytics, workflow optimization
 
----
-
 ## GitHub
 
 <p align="left">
@@ -26,7 +23,6 @@ Other: Automation, data migration, analytics, workflow optimization
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mflgdev&layout=compact&theme=tokyonight&hide_border=true">
 </p>
 
----
 
 ## Contact
 
