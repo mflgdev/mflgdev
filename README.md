@@ -10,11 +10,11 @@ Right now I'm working on institutional websites, custom dashboards, e-commerce i
 
 ## What I work with
 
-**Frontend:** HTML5, CSS3, JavaScript, jQuery, Bootstrap, Tailwind CSS
-**Backend:** PHP, MySQL, MariaDB
-**E-Commerce:** Marketplace integrations, product management, payment gateways, omnichannel operations
-**SEO & Performance:** Technical SEO, PageSpeed optimization, UX improvements, conversion strategies
-**Other:** Automation, data migration, analytics, workflow optimization
+Frontend: HTML5, CSS3, JavaScript, jQuery, Bootstrap, Tailwind CSS
+Backend: PHP, MySQL, MariaDB
+E-Commerce: Marketplace integrations, product management, payment gateways, omnichannel operations
+SEO & Performance: Technical SEO, PageSpeed optimization, UX improvements, conversion strategies
+Other: Automation, data migration, analytics, workflow optimization
 
 ---
 
